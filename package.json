@@ -1,0 +1,19 @@
+{
+  "name": "mi-compra",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "open": "cypress open",
+    "miformulario": "cypress run -- browser chrome"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.8.0"
+  },
+  "devDependencies": {
+    "cypress-mochawesome-reporter": "^3.3.0"
+  }
+}
